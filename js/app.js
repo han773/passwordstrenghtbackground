@@ -3,7 +3,7 @@ const background = document.getElementById('background');
 const password = document.getElementById('password');
 const eyeicon = document.getElementById('eye'); 
 
-//Event Listener (ပထမဆုံးနားထောင်မယ်)
+
 password.addEventListener('input',(e)=>{
     // console.log('hay');
     // console.log(e.target);
